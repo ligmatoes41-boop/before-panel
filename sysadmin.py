@@ -653,4 +653,5 @@ Welcome! Use the `!` prefix for all commands. Some commands may require extra pe
         await ctx.send(part)
 
 # Run the bot
-bot.run('MTQwODg4MDEzNzAwMDQ1NjIyMg.GeSXcC.RmQIUyVkJWZsyWO_AFBeIz44ARc9MvzKx44CfA')
+
+bot.run('MTQwOTI5ODAwNjIwOTA2OTI0Ng.GFabPS.9TkCaEV5huv4FSgFUAOHmWFYC82H0_HIXx87FE')
